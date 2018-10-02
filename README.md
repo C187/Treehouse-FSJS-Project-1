@@ -1,1 +1,2 @@
-# Treehouse-FSJS-Project-1
+# Treehouse Full Stack JavaScript Techdegree Project 1
+### A Random Quote Generator
