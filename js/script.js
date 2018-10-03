@@ -5,7 +5,7 @@
 
 
 // Create the getRandomQuuote function and name it getRandomQuote
-
+function getRandomQuote ();
 
 
 // Create the printQuote funtion and name it printQuote
